@@ -1,0 +1,2 @@
+Convention type,Pattern,Example,Frequency,Scope
+naming,Tests suffix for classes,CustomerAuthTestApplicationTests,,project-wide

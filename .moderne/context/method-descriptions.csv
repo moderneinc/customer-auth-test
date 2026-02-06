@@ -1,0 +1,2 @@
+Source path,Class name,Signature,Checksum,Description,Return value description,Technique 1,Technique 2,Technique 3,Inference time (ms),Input tokens,Output tokens
+src/main/java/io/moderne/CustomerAuthTestApplication.java,io.moderne.CustomerAuthTestApplication,"io.moderne.CustomerAuthTestApplication{name=main,return=void,parameters=[java.lang.String[]]}",f69a66808a7bc78ef318d5bbb2b340b5a1ae91e1535922cdfa46da3be3aef3b0,,,,,,0,254,0

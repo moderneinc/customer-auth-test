@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Moderne CLI
+.moderne/*
+!.moderne/context/

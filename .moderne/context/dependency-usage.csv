@@ -1,0 +1,5 @@
+Library,Top-level package,Usage pattern,Common classes,Import count,Example usage
+org.springframework.boot:spring-boot-autoconfigure:3.4.2,org.springframework.boot,,SpringBootApplication,1,
+org.springframework.boot:spring-boot:3.4.2,org.springframework.boot,,SpringApplication,1,
+org.junit.jupiter:junit-jupiter-api:5.11.4,org.junit.jupiter,,Test,1,
+org.springframework.boot:spring-boot-test:3.4.2,org.springframework.boot,,SpringBootTest,1,
